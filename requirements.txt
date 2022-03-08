@@ -29,7 +29,7 @@ django-configurations==2.1
 django-djconfig==0.8.0
 django-haystack==2.8.1
 django-infinite-scroll-pagination==0.2.0
-django-spirit==0.7.0
+django-spirit==0.12.3
 django-timezone-field==3.0
 djangorestframework==3.9.0
 djangorestframework-jwt==1.11.0
